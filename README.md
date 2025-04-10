@@ -52,7 +52,6 @@ AI_vs_Human_Classifier/ │
 
 ### 🖥️ Command-Line Prediction (`predict_single.py`)
 
-```bash
 python predict_single.py --image_path path_to_your_image.jpg
 
     Predicts a single image via terminal.
